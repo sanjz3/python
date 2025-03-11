@@ -15,3 +15,4 @@ print(e, type(e))
 
 h = 3 + 5j
 print(h , type(h))
+print(h)
