@@ -5,14 +5,14 @@ print(name)
 info = '''i 'm' "san" '''
 print(info)
 
-poem = '''Twinkle, twinkle, little star, 
+poems = '''Twinkle, twinkle, little star, 
 How I wonder what you are!  
-Up above the world so high,  
+Up above the world so high, 
+n the sk 
 Like a diamond in the sky.  '''    #Multiline strings
 
 
-
-print(poem)
+print(poems)
 
 ''' these statements are in  comments '''
 
